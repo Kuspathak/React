@@ -3,7 +3,7 @@ import Input from '../component/Input';
 
 function Category() {
   return (
-    <div className='border p-2'>
+    <div className='border p-2 shadow'>
       <h2 className="sidebar-title">Category</h2>
       <div>
         <Input

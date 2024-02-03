@@ -5,7 +5,7 @@ import Colors from './Colors';
 
 const Sidebar = () => {
   return (
-    <div>
+    <div className='d-flex flex-column gap-4'>
         <Catogery/>
         <Price/>
         <Colors/>
